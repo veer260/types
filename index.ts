@@ -1,0 +1,1 @@
+const boy: string  = "Ravi";
